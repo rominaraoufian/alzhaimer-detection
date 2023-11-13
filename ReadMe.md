@@ -1,4 +1,4 @@
-# Alzhaimer Detection
+# Alzheimer Detection
 ## Data
 Data that is used in this project has images of diffent brain MRI which devided in 4 classes. ('VeryMildDemented', 'MildDemented', 'ModerateDemented', 'NonDemented)
 You can access this data from [here](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images/data)
